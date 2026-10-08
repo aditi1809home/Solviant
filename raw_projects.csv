@@ -1,0 +1,275 @@
+project_id,name,category,status,record_count,created_at
+1005,Account Audit,Data Quality,ACTIVE ,18566,2026-05-10
+1155,Tax Validation,Integration,Active,10140,"February 28, 2026"
+1110,Payment Test, AI Testing,active,"7,154",2026-03-21
+1018,Discount Audit,Data Quality,REVIEW,12428,2026-01-07
+1052,TAX PILOT,AI Testing,done,"4,438",14/03/2026
+1186,  bundle reconciliation , Integration,Completed,17213,2026-06-20
+1121,  contract reconciliation 7 , CPQ,Active,15726,2026-02-11
+1107,Billing Reconciliation, Data Quality,Completed,8728,2026-03-25
+1080,Order Tracker,data quality,Active,18692,2026-01-09
+1007,Proposal Portal,ai testing,Review,3271,"April 19, 2026"
+1154,Account Verification, Data Quality,REVIEW,"8,248",2026-02-17
+1047,  order check , Data Quality,Active,3066,2026-06-23
+1029,Credit Export,integration,active,2577,2026-05-13
+1011,PAYMENT FLOW 4,ai testing,In Progress,4298,23/06/2026
+N/A,Payment Check,cpq,complete,6745,2026-04-01
+1077,Renewal Export 5, Data Quality,active,"13,725",13/05/2026
+1009,ORDER TEST, Integration,REVIEW,17108,2026-05-26
+1130,Renewal Validation,Data Quality,ACTIVE ,17494,2026-03-12
+1141,QUOTE CHECK 3,ai testing,REVIEW,18871,"March 17, 2026"
+2101,Order Migration 2,Data Quality,Completed,-1,"April 9, 2026"
+1079,Credit Reconciliation,Data Quality,active,14863,2026-03-05
+1042,Contract Cleanup,Data Quality,active,8847,"March 3, 2026"
+1073,  proposal flow , AI Testing,Active,"18,505",2026-05-08
+1022,Discount Review,integration,Active,15798,2026-05-05
+2103,TAX FLOW,AI Testing,under review,abc,2026-03-27
+1063,Invoice Pilot,Integration,In Progress,19383,2026-03-19
+2102,Order Migration 2,Data Quality,Completed,abc,"April 9, 2026"
+1145,USAGE FLOW,Billing,Active,4467,2026-01-20
+2302,  ,Integration,Active,1190,2026-03-28
+1046,Renewal Export,AI Testing,Active,12560,"May 22, 2026"
+1112,USAGE RECONCILIATION 4, CPQ,Review,6502,2026-04-01
+1197,Invoice Audit,cpq,Review,"18,592",2026-03-26
+1116,CREDIT VERIFICATION,Billing,REVIEW,15653,2026-03-18
+1197,Invoice Audit,cpq,Review,"18,592",2026-03-26
+1021,Proposal Review, Billing,ACTIVE ,19405,"May 25, 2026"
+1176,TAX TEST, Data Quality,Active,"19,651",2026-04-06
+1172,Pricing Cleanup 6,AI Testing,ACTIVE ,"7,719",2026-03-25
+1178,Quote Migration,integration,Completed,11363,2026-06-11
+1161,  discount check ,AI Testing,ACTIVE ,14568,2026-05-07
+1047,  order check , Data Quality,Active,2188,2026-06-23
+1018,Discount Audit,Data Quality,REVIEW,12845,2026-01-07
+2104,Order Migration, Integration,In Progress,12.5k,2026-03-22
+1033,Payment Audit, AI Testing,Active,6434,2026-03-06
+1190,Payment Cleanup,cpq,Active,17869 ,2026-02-20
+1100,Credit Portal, AI Testing,Done,18498,2026-02-05
+1179,  invoice report 8 , AI Testing,Done,15431,13/05/2026
+1118,Contract Export,integration,ACTIVE ,12956,26/06/2026
+1026,  quote pilot ,integration,REVIEW,"11,040",10/06/2026
+1075,Contract Flow,data quality,Active,7707,11/02/2026
+1152,INVOICE TRACKER,AI Testing,ACTIVE ,11285,"June 18, 2026"
+1001,Invoice Report,Integration,Completed,3663,"February 20, 2026"
+1078,Renewal Review, AI Testing,Done,4480 ,2026-04-09
+,Payment Test, AI Testing,active,"7,154",2026-03-21
+1019,  payment review ,ai testing,In Progress,"3,320",2026-01-15
+1068,  quote flow ,AI Testing,In Progress,17908,24/02/2026
+1097,  contract sync 6 , Integration,Done,12844,"June 4, 2026"
+1101,  pricing review ,cpq,done,2301,2026-06-28
+1015,Discount Portal, CPQ,active,16211,2026-04-17
+1067,Tax Cleanup,data quality,active,13034,2026-02-24
+1070,Invoice Pilot 7,Billing,Active,10217,2026-02-18
+1082,  payment report 3 ,AI Testing,Done,17230,2026-02-14
+1019,  payment review ,ai testing,In Progress,"3,320",2026-01-15
+1102,BILLING VERIFICATION,Data Quality,In Progress,4860,2026-03-18
+1144,Usage Export,integration,In Progress,8251,2026-06-16
+1028,Usage Review,Integration,Done,7082,2026-04-20
+1150,Credit Sync,Billing,complete,18254,"January 7, 2026"
+1200,DISCOUNT AUDIT 4,Integration,Active,"17,809",2026-01-18
+1148,Catalog Report,ai testing,active,12922,2026-03-15
+N/A,Usage Portal,Integration,Completed,17941,2026-02-04
+2203,Quote Sync, Data Quality,complete,5043,31/02/2026
+1174,  tax tracker ,Integration,complete,6916,2026-05-14
+1036,  order reconciliation ,CPQ,Active,460,2026-01-15
+1096,Contract Report, AI Testing,ACTIVE ,11428,2026-03-06
+1109,Usage Tracker, CPQ,REVIEW,7270,2026-03-06
+1043,Quote Test,data quality,Review,805,2026-01-04
+1140,Discount Review 7,CPQ,under review,18326,"January 5, 2026"
+1032,Pricing Sync,CPQ,under review,"9,239",2026-04-18
+1159,PAYMENT TEST 8,integration,active,8295,2026-05-19
+1093,Discount Review 2,ai testing,ACTIVE ,"8,618",2026-04-07
+2005,Order Review,Data Quality,unknown,13886,28/04/2026
+1073,  proposal flow , AI Testing,Active,"18,505",2026-05-08
+1184,Credit Test 6,AI Testing,Active,8733,07/01/2026
+1054,  quote check , Data Quality,ACTIVE ,7779,2026-01-01
+1074,Proposal Export,Integration,In Progress,3004,2026-01-25
+1175,ORDER VALIDATION,integration,complete,8659,2026-05-15
+1111,BUNDLE FLOW 3, CPQ,In Progress,4096,2026-01-12
+1090,Pricing Reconciliation 2,Data Quality,REVIEW,"1,757",2026-02-18
+1017,INVOICE EXPORT, Integration,ACTIVE ,15141,"February 14, 2026"
+1098,  renewal pilot ,AI Testing,active,7170,2026-04-17
+1020,Contract Migration,CPQ,In Progress,1763,2026-05-09
+1136,Account Export,billing,ACTIVE ,1330,"January 14, 2026"
+1171,Catalog Test,Billing,active,5834,2026-01-28
+1151,Renewal Cleanup,AI Testing,ACTIVE ,10963,2026-02-26
+1091,  catalog flow ,Data Quality,In Progress,11684,"March 20, 2026"
+1059,Renewal Portal, Data Quality,under review,15293,"May 26, 2026"
+1095,  billing test , Billing,Completed,"17,741",2026-03-16
+1060,  discount cleanup , CPQ,active,13752,2026-02-16
+1035,Credit Flow,AI Testing,ACTIVE ,17576,2026-05-26
+1156,  payment review 9 ,AI Testing,REVIEW,"2,239",2026-05-10
+1165,Credit Review,ai testing,Review,3561 ,04/06/2026
+1065,Usage Reconciliation, Billing,Active,13053,2026-03-18
+1139,Quote Portal 3,cpq,complete,17654,27/02/2026
+2300,  ,integration,Completed,11363,2026-06-11
+1167,Catalog Review,AI Testing,REVIEW,3562,26/05/2026
+1066,  order cleanup ,Billing,Done,6518,10/02/2026
+1173,Contract Test,billing,complete,8957,14/03/2026
+1132,Invoice Export 2,data quality,under review,17191,02/06/2026
+1125,Discount Migration,AI Testing,active,17651,26/04/2026
+2201,Catalog Pilot,data quality,active,3375,31/02/2026
+1153,ACCOUNT MIGRATION,Integration,complete,10224,2026-05-18
+1119,  bundle flow 2 ,cpq,In Progress,4701 ,2026-01-04
+1084,Order Review,Data Quality,Done,13886,28/04/2026
+1113,PRICING VERIFICATION, Data Quality,In Progress,13351,2026-01-16
+2003,CREDIT VERIFICATION,Billing,On hold?,15653,2026-03-18
+1077,Renewal Export 5, Data Quality,active,"13,725",13/05/2026
+1051,Invoice Reconciliation, Billing,Active,17424,2026-03-20
+1016,Discount Test, Integration,Active,9804,15/03/2026
+1193,Pricing Test 5, Data Quality,Review,17465,2026-05-05
+1137,Account Audit 9, Integration,ACTIVE ,5922,2026-02-06
+2000,CONTRACT VERIFICATION,CPQ,On hold?,7461,2026-06-27
+1195,Account Audit 7,AI Testing,Active,628,2026-03-19
+1004,  discount report ,CPQ,under review,8541,2026-03-12
+ ,Bundle Cleanup, Data Quality,REVIEW,13749,2026-04-10
+1157,Billing Report,integration,Active,13866,2026-02-23
+1128,PROPOSAL MIGRATION,integration,In Progress,18475,2026-02-15
+1039,Order Migration, Integration,In Progress,18742,2026-03-22
+1139,Quote Portal 3,cpq,complete,17235,27/02/2026
+1174,  tax tracker ,Integration,complete,6240,2026-05-14
+1025,Invoice Check,billing,Active,11671,2026-06-12
+1198,  pricing sync 4 ,cpq,done,8558,2026-06-04
+1164,Payment Tracker,Data Quality,Active,412,2026-01-03
+1147,Tax Review 8,Billing,under review,19543,2026-01-04
+1008,  discount reconciliation ,ai testing,done,19966,13/04/2026
+2004,Order Tracker,data quality,unknown,18692,2026-01-09
+1057,CREDIT VALIDATION,Billing,ACTIVE ,15718,2026-01-08
+1133,Renewal Flow 2, Data Quality,ACTIVE ,5816,"June 3, 2026"
+1037,Credit Test,Integration,Active,1190,2026-03-28
+1089,Usage Cleanup,Billing,Done,"13,965",2026-06-17
+1101,  pricing review ,cpq,done,2427,2026-06-28
+2205,INVOICE TRACKER,AI Testing,ACTIVE ,11285,N/A
+2301,,cpq,active,18150,2026-01-15
+ ,Account Verification 9,Data Quality,ACTIVE ,"6,449",2026-02-12
+1006,Tax Export,CPQ,Done,10425,2026-01-28
+1021,Proposal Review, Billing,ACTIVE ,20219,"May 25, 2026"
+1040,Pricing Reconciliation, Data Quality,In Progress,"14,588","February 4, 2026"
+1092,DISCOUNT VERIFICATION, AI Testing,In Progress,8495,2026-01-21
+2105,Credit Test 6,AI Testing,Active,,07/01/2026
+1103,Proposal Review 9,CPQ,Active,2057,2026-02-22
+1124,Invoice Flow,Integration,REVIEW,"16,121",2026-05-01
+1087,PROPOSAL AUDIT,Integration,Active,17960,2026-01-04
+1102,BILLING VERIFICATION,Data Quality,In Progress,4860,2026-03-18
+1020,Contract Migration,CPQ,In Progress,1763,2026-05-09
+1039,Order Migration, Integration,In Progress,18742,2026-03-22
+1083,Proposal Report 2,AI Testing,active,644,2026-03-18
+2106,  order cleanup ,Billing,Done,-1,10/02/2026
+1086,Order Report,Billing,Active,15279 ,2026-05-09
+1044,Catalog Pilot,data quality,active,3375,18/06/2026
+1035,Credit Flow,AI Testing,ACTIVE ,17576,2026-05-26
+2200,Renewal Cleanup,AI Testing,ACTIVE ,10963,yesterday
+1023,Tax Audit,AI Testing,Active,4735,2026-05-10
+1044,Catalog Pilot,data quality,active,3375,18/06/2026
+1131,CONTRACT VERIFICATION,CPQ,In Progress,7461,2026-06-27
+1126,  pricing cleanup , CPQ,done,10585 ,2026-03-25
+1027,BUNDLE REPORT, Billing,REVIEW,15588,2026-05-20
+1075,Contract Flow,data quality,Active,7707,11/02/2026
+1012,Bundle Flow, Integration,In Progress,18643 ,2026-04-22
+1031,  renewal flow ,billing,In Progress,17664 ,26/02/2026
+1053,ACCOUNT CHECK,CPQ,under review,7494 ,"February 6, 2026"
+1069,Quote Sync, Data Quality,complete,5043,2026-02-01
+1191,Account Validation,Billing,Review,19113,2026-04-27
+1178,Quote Migration,integration,Completed,11363,2026-06-11
+1163,ACCOUNT RECONCILIATION 9, Integration,Active,17205,2026-06-04
+1181,Account Portal 2,data quality,REVIEW,11792,2026-03-26
+2007,Invoice Audit,cpq,On hold?,"18,592",2026-03-26
+1076,Payment Report,Data Quality,Review,13507,"March 6, 2026"
+1087,PROPOSAL AUDIT,Integration,Active,18739,2026-01-04
+1186,  bundle reconciliation , Integration,Completed,17213,2026-06-20
+1026,  quote pilot ,integration,REVIEW,"11,040",10/06/2026
+1072,  contract check ,Data Quality,Done,10179,2026-06-04
+1071,Pricing Tracker,CPQ,Active,10991 ,2026-04-04
+1108,  quote sync 5 ,billing,Review,14492,2026-02-27
+1034,ORDER EXPORT,AI Testing,REVIEW,9726,2026-04-06
+1058,PRICING CHECK,Data Quality,active,18702,2026-03-11
+2303,  , Billing,Completed,"17,741",2026-03-16
+N/A,  catalog flow ,Data Quality,In Progress,11684,"March 20, 2026"
+2107,ORDER TEST, Integration,REVIEW,-1,2026-05-26
+1099,Pricing Migration,data quality,under review,4779,2026-05-22
+2202,Quote Portal,Integration,Review,1529,yesterday
+1013,TAX FLOW,AI Testing,under review,6936,2026-03-27
+2204,Invoice Report,Integration,Completed,3663,2026-13-40
+ ,Proposal Report 2,AI Testing,active,644,2026-03-18
+1129,Account Reconciliation,billing,Review,13437,2026-01-08
+1007,Proposal Portal,ai testing,Review,3271,"April 19, 2026"
+1050,CREDIT MIGRATION,Integration,active,3989,2026-02-20
+1121,  contract reconciliation 7 , CPQ,Active,15726,2026-02-11
+1189,QUOTE CLEANUP 8,Data Quality,done,14756,"February 2, 2026"
+1187,BILLING CLEANUP,CPQ,Active,14009,"February 4, 2026"
+1010,Quote Tracker,cpq,active,17444,2026-06-04
+1117,  invoice verification ,Data Quality,Active,2939,02/05/2026
+1061,Quote Portal,Integration,Review,1529,"June 6, 2026"
+2002,  discount check ,AI Testing,On hold?,14568,2026-05-07
+1095,  billing test , Billing,Completed,18031,2026-03-16
+1167,Catalog Review,AI Testing,REVIEW,3562,26/05/2026
+1138,Renewal Report,AI Testing,Active,5835,03/04/2026
+1179,  invoice report 8 , AI Testing,Done,15431,13/05/2026
+1048,Payment Pilot, Data Quality,In Progress,9788,2026-06-25
+1182,Discount Pilot,Data Quality,under review,15569,2026-01-20
+1122,Bundle Tracker,AI Testing,ACTIVE ,17145,2026-03-14
+2001,  order pilot ,Billing,On hold?,19871 ,2026-04-26
+1086,Order Report,Billing,Active,15279 ,2026-05-09
+1149,Bundle Cleanup, Data Quality,REVIEW,13749,2026-04-10
+1062,Contract Cleanup 7,integration,active,4820,2026-06-24
+1088,PRICING REPORT, CPQ,REVIEW,7062,22/05/2026
+1038,Usage Portal,Integration,Completed,17941,2026-02-04
+1163,ACCOUNT RECONCILIATION 9, Integration,Active,17205,2026-06-04
+1104,Pricing Test,integration,under review,18193,2026-01-10
+1122,Bundle Tracker,AI Testing,ACTIVE ,17145,2026-03-14
+1170,Billing Test 4,ai testing,In Progress,8680,2026-06-18
+1192,DISCOUNT EXPORT, CPQ,active,9718,2026-01-26
+1199,Account Verification 9,Data Quality,ACTIVE ,"6,449",2026-02-12
+1056,Contract Sync,Integration,In Progress,17144,11/03/2026
+1142,  proposal audit 2 ,Data Quality,Active,4087,2026-04-08
+1166,RENEWAL FLOW 7,integration,In Progress,4383 ,2026-01-12
+1158,Tax Portal,data quality,under review,17527,2026-02-01
+1175,ORDER VALIDATION,integration,complete,8549,2026-05-15
+1030,Billing Migration,cpq,active,18150,2026-01-15
+1194,Renewal Report 4,Data Quality,Active,3676,15/02/2026
+1188,  contract reconciliation 3 ,Integration,REVIEW,1505,15/02/2026
+1084,Order Review,Data Quality,Done,13886,28/04/2026
+1014,  order pilot ,Billing,ACTIVE ,19871 ,2026-04-26
+2006,Discount Report 2,billing,unknown,"4,259",2026-06-28
+1196,Contract Verification 5,CPQ,active,8692,2026-01-10
+1134,Order Migration 2,Data Quality,Completed,1728,"April 9, 2026"
+1127,Payment Pilot 7,Integration,done,5751 ,2026-05-04
+1081,  tax export 8 ,AI Testing,Active,18313,2026-06-11
+1002,Payment Flow,Integration,under review,8162,"January 20, 2026"
+1131,CONTRACT VERIFICATION,CPQ,In Progress,7461,2026-06-27
+1106,PAYMENT REVIEW 7,CPQ,done,"1,619",2026-04-01
+1183,Quote Cleanup,Integration,Done,2322,2026-01-25
+1094,  proposal verification ,integration,under review,10263,2026-02-19
+1037,Credit Test,Integration,Active,1190,2026-03-28
+1094,  proposal verification ,integration,under review,10263,2026-02-19
+1115,Pricing Tracker 7,AI Testing,REVIEW,"19,732",2026-01-23
+1064,  billing check ,AI Testing,Completed,17227,2026-06-22
+1168,Payment Review 3, Billing,Review,14162,15/01/2026
+1003,Contract Reconciliation,Data Quality,ACTIVE ,15034,"January 27, 2026"
+1055,Order Flow,AI Testing,In Progress,10613,"February 21, 2026"
+1114,BUNDLE VERIFICATION,Data Quality,Review,"4,820",26/01/2026
+1143,Tax Sync,data quality,Completed,643,2026-01-11
+1177,Proposal Cleanup, Data Quality,ACTIVE ,3915,2026-05-08
+1049,  invoice cleanup ,AI Testing,Active,19489,2026-01-18
+1162,Proposal Pilot, Integration,In Progress,3625,2026-01-07
+2100,ACCOUNT CHECK,CPQ,under review,,"February 6, 2026"
+1105,Catalog Portal,Integration,In Progress,15558,2026-06-24
+1183,Quote Cleanup,Integration,Done,2091,2026-01-25
+1100,Credit Portal, AI Testing,Done,17965,2026-02-05
+1024,Payment Check,cpq,complete,6745,2026-04-01
+1160,ACCOUNT PORTAL,Billing,ACTIVE ,8136,2026-02-06
+1045,Proposal Report, AI Testing,complete,1545,"April 11, 2026"
+1085,Discount Report 2,billing,Active,"4,259",2026-06-28
+1098,  renewal pilot ,AI Testing,active,7170,2026-04-17
+1185,  renewal validation 3 ,cpq,Active,1929,2026-06-12
+1164,Payment Tracker,Data Quality,Active,412,2026-01-03
+1041,Billing Portal, CPQ,active,16901,2026-03-09
+1180,INVOICE PORTAL,ai testing,Review,19448,"March 19, 2026"
+1158,Tax Portal,data quality,under review,17527,2026-02-01
+1138,Renewal Report,AI Testing,Active,5835,03/04/2026
+2008,INVOICE PORTAL,ai testing,On hold?,19448,"March 19, 2026"
+1146,Tax Review,AI Testing,Active,964,2026-04-20
+1135,Contract Sync 5, AI Testing,Active,"18,049",2026-03-08
+1123,BILLING FLOW, CPQ,complete,6338,2026-04-07
+1160,ACCOUNT PORTAL,Billing,ACTIVE ,8037,2026-02-06
+1169,Discount Validation, AI Testing,under review,11819,"June 4, 2026"
+1120,Account Audit 4,Integration,active,897,2026-01-24

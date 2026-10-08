@@ -1,0 +1,2494 @@
+{
+ "export": "sync-events",
+ "version": 2,
+ "data": {
+  "metrics": [
+   {
+    "project_id": 1128,
+    "synced_at": "2026-03-27T11:45:00Z",
+    "records": 886,
+    "source": "manual"
+   },
+   {
+    "project_id": 1150,
+    "synced_at": "2026-02-16T09:30:00Z",
+    "records": 381,
+    "source": "api"
+   },
+   {
+    "project_id": 1200,
+    "synced_at": "2026-04-16T12:15:00Z",
+    "records": 747,
+    "source": "manual"
+   },
+   {
+    "project_id": 1037,
+    "synced_at": "2026-07-18T07:30:00Z",
+    "records": 265,
+    "source": "manual"
+   },
+   {
+    "project_id": 1109,
+    "synced_at": "2026-07-01T17:30:00Z",
+    "records": 375,
+    "source": "manual"
+   },
+   {
+    "project_id": 1115,
+    "synced_at": "2026-05-03T22:45:00Z",
+    "records": 238,
+    "source": "batch"
+   },
+   {
+    "project_id": 1183,
+    "synced_at": "2026-05-16T06:15:00Z",
+    "records": 124,
+    "source": "api"
+   },
+   {
+    "project_id": 1104,
+    "synced_at": "2026-01-25T05:00:00Z",
+    "records": 157,
+    "source": "manual"
+   },
+   {
+    "project_id": 1038,
+    "synced_at": "2026-04-19T18:15:00Z",
+    "records": 74,
+    "source": "batch"
+   },
+   {
+    "project_id": 1001,
+    "synced_at": "2026-04-21T10:45:00Z",
+    "records": 373,
+    "source": "api"
+   },
+   {
+    "project_id": 1134,
+    "synced_at": "2026-05-11T18:30:00Z",
+    "records": 734,
+    "source": "manual"
+   },
+   {
+    "project_id": 1132,
+    "synced_at": "2026-07-13T04:15:00Z",
+    "records": 157,
+    "source": "api"
+   },
+   {
+    "project_id": 1186,
+    "synced_at": "2026-07-16T14:00:00Z",
+    "records": 398,
+    "source": "batch"
+   },
+   {
+    "project_id": 1184,
+    "synced_at": "2026-05-13T00:00:00Z",
+    "records": 238,
+    "source": "batch"
+   },
+   {
+    "project_id": 1140,
+    "synced_at": "2026-03-21T13:15:00Z",
+    "records": 45,
+    "source": "batch"
+   },
+   {
+    "project_id": 1063,
+    "synced_at": "2026-03-20T05:30:00Z",
+    "records": 677,
+    "source": "api"
+   },
+   {
+    "project_id": 1054,
+    "synced_at": "2026-06-09T23:00:00Z",
+    "records": 522,
+    "source": "batch"
+   },
+   {
+    "project_id": 1029,
+    "synced_at": "2026-05-14T05:30:00Z",
+    "records": 826,
+    "source": "manual"
+   },
+   {
+    "project_id": 1199,
+    "synced_at": "2026-07-12T18:00:00Z",
+    "records": 473,
+    "source": "api"
+   },
+   {
+    "project_id": 1037,
+    "synced_at": "2026-03-28T06:30:00Z",
+    "records": 882,
+    "source": "api"
+   },
+   {
+    "project_id": 1057,
+    "synced_at": "2026-02-02T11:00:00Z",
+    "records": 478,
+    "source": "manual"
+   },
+   {
+    "project_id": 1155,
+    "synced_at": "2026-05-17T05:45:00Z",
+    "records": 556,
+    "source": "manual"
+   },
+   {
+    "project_id": 1155,
+    "synced_at": "2026-03-10T03:30:00Z",
+    "records": 832,
+    "source": "batch"
+   },
+   {
+    "project_id": 1010,
+    "synced_at": "2026-06-13T22:15:00Z",
+    "records": 334,
+    "source": "manual"
+   },
+   {
+    "project_id": 1139,
+    "synced_at": "2026-07-22T09:15:00Z",
+    "records": 418,
+    "source": "batch"
+   },
+   {
+    "project_id": 1012,
+    "synced_at": "2026-05-05T05:30:00Z",
+    "records": 65,
+    "source": "manual"
+   },
+   {
+    "project_id": 1084,
+    "synced_at": "2026-04-28T11:30:00Z",
+    "records": 461,
+    "source": "batch"
+   },
+   {
+    "project_id": 1065,
+    "synced_at": "2026-04-23T05:15:00Z",
+    "records": 426,
+    "source": "manual"
+   },
+   {
+    "project_id": 1128,
+    "synced_at": "2026-04-24T07:00:00Z",
+    "records": 291,
+    "source": "api"
+   },
+   {
+    "project_id": 1067,
+    "synced_at": "2026-03-09T06:30:00Z",
+    "records": 763,
+    "source": "manual"
+   },
+   {
+    "project_id": 1033,
+    "synced_at": "2026-06-24T15:15:00Z",
+    "records": 146,
+    "source": "api"
+   },
+   {
+    "project_id": 1139,
+    "synced_at": "2026-07-03T09:30:00Z",
+    "source": "api"
+   },
+   {
+    "project_id": 1142,
+    "synced_at": "2026-05-17T13:30:00Z",
+    "records": 742,
+    "source": "batch"
+   },
+   {
+    "project_id": 1050,
+    "synced_at": "2026-04-08T04:00:00Z",
+    "records": 780,
+    "source": "api"
+   },
+   {
+    "project_id": 1028,
+    "synced_at": "2026-06-19T02:15:00Z",
+    "records": 721,
+    "source": "manual"
+   },
+   {
+    "project_id": 1075,
+    "synced_at": "2026-02-12T10:15:00Z",
+    "records": 873,
+    "source": "batch"
+   },
+   {
+    "project_id": 1082,
+    "synced_at": "2026-07-09T16:45:00Z",
+    "records": 809,
+    "source": "batch"
+   },
+   {
+    "project_id": 1027,
+    "synced_at": "2026-05-21T08:45:00Z",
+    "records": 412,
+    "source": "batch"
+   },
+   {
+    "project_id": 1124,
+    "synced_at": "2026-07-24T02:15:00Z",
+    "records": 356,
+    "source": "api"
+   },
+   {
+    "project_id": 1002,
+    "synced_at": "2026-01-21T04:00:00Z",
+    "records": 712,
+    "source": "api"
+   },
+   {
+    "project_id": 1178,
+    "synced_at": "2026-06-12T01:30:00Z",
+    "records": 518,
+    "source": "api"
+   },
+   {
+    "project_id": 1151,
+    "synced_at": "2026-02-27T01:15:00Z",
+    "records": 106,
+    "source": "api"
+   },
+   {
+    "project_id": 1194,
+    "synced_at": "2026-04-13T16:15:00Z",
+    "records": 566,
+    "source": "api"
+   },
+   {
+    "project_id": 1195,
+    "synced_at": "2026-07-02T09:30:00Z",
+    "records": -30,
+    "source": "batch"
+   },
+   {
+    "project_id": 1083,
+    "synced_at": "2026-07-28T11:45:00Z",
+    "records": 638,
+    "source": "manual"
+   },
+   {
+    "project_id": 1196,
+    "synced_at": "2026-01-12T04:45:00Z",
+    "records": 283,
+    "source": "manual"
+   },
+   {
+    "project_id": 1187,
+    "synced_at": "2026-03-10T19:45:00Z",
+    "records": 480,
+    "source": "manual"
+   },
+   {
+    "project_id": 1024,
+    "synced_at": "2026-05-15T12:00:00Z",
+    "records": 72,
+    "source": "api"
+   },
+   {
+    "project_id": 1019,
+    "synced_at": "2026-07-21T23:45:00Z",
+    "records": 420,
+    "source": "batch"
+   },
+   {
+    "project_id": 1081,
+    "synced_at": "2026-06-12T10:00:00Z",
+    "records": 743,
+    "source": "batch"
+   },
+   {
+    "project_id": 1044,
+    "synced_at": "2026-07-11T07:00:00Z",
+    "records": 550,
+    "source": "api"
+   },
+   {
+    "project_id": 1075,
+    "synced_at": "2026-04-03T19:45:00Z",
+    "records": 129,
+    "source": "api"
+   },
+   {
+    "project_id": 1027,
+    "synced_at": "2026-05-21T00:45:00Z",
+    "records": 728,
+    "source": "manual"
+   },
+   {
+    "project_id": 1088,
+    "synced_at": "2026-07-22T18:00:00Z",
+    "records": 257,
+    "source": "api"
+   },
+   {
+    "project_id": 1089,
+    "synced_at": "2026-06-18T19:15:00Z",
+    "records": 312,
+    "source": "api"
+   },
+   {
+    "project_id": 1116,
+    "synced_at": "2026-06-01T05:00:00Z",
+    "records": 264,
+    "source": "api"
+   },
+   {
+    "project_id": 1032,
+    "synced_at": "2026-04-19T07:00:00Z",
+    "records": 850,
+    "source": "api"
+   },
+   {
+    "project_id": 1159,
+    "synced_at": "2026-07-16T09:00:00Z",
+    "records": 367,
+    "source": "api"
+   },
+   {
+    "project_id": 1057,
+    "synced_at": "2026-04-17T10:45:00Z",
+    "records": 170,
+    "source": "api"
+   },
+   {
+    "project_id": 1094,
+    "synced_at": "2026-07-12T15:30:00Z",
+    "records": 899,
+    "source": "manual"
+   },
+   {
+    "project_id": 1148,
+    "synced_at": "2026-03-22T14:00:00Z",
+    "records": 853,
+    "source": "batch"
+   },
+   {
+    "project_id": 1164,
+    "synced_at": "2026-07-03T09:30:00Z",
+    "source": "api"
+   },
+   {
+    "project_id": 1181,
+    "synced_at": "2026-06-25T05:00:00Z",
+    "records": 236,
+    "source": "api"
+   },
+   {
+    "project_id": 1059,
+    "synced_at": "2026-07-13T09:15:00Z",
+    "records": 235,
+    "source": "batch"
+   },
+   {
+    "project_id": 1064,
+    "synced_at": "2026-06-26T23:15:00Z",
+    "records": 830,
+    "source": "manual"
+   },
+   {
+    "project_id": 1071,
+    "synced_at": "2026-05-12T07:30:00Z",
+    "records": 616,
+    "source": "api"
+   },
+   {
+    "project_id": 1153,
+    "synced_at": "2026-07-24T23:30:00Z",
+    "records": 491,
+    "source": "batch"
+   },
+   {
+    "project_id": 1167,
+    "synced_at": "2026-06-03T18:45:00Z",
+    "records": 751,
+    "source": "batch"
+   },
+   {
+    "project_id": 1191,
+    "synced_at": "2026-05-19T19:45:00Z",
+    "records": 195,
+    "source": "batch"
+   },
+   {
+    "project_id": 1129,
+    "synced_at": "2026-02-01T15:00:00Z",
+    "records": 68,
+    "source": "api"
+   },
+   {
+    "project_id": 1040,
+    "synced_at": "2026-02-27T18:45:00Z",
+    "records": 363,
+    "source": "api"
+   },
+   {
+    "project_id": 1085,
+    "synced_at": "2026-06-28T11:45:00Z",
+    "records": 243,
+    "source": "batch"
+   },
+   {
+    "project_id": 1197,
+    "synced_at": "2026-03-27T18:30:00Z",
+    "records": 99,
+    "source": "batch"
+   },
+   {
+    "project_id": 1118,
+    "synced_at": "2026-06-27T09:45:00Z",
+    "records": 251,
+    "source": "api"
+   },
+   {
+    "project_id": 1182,
+    "synced_at": "2026-02-28T17:30:00Z",
+    "records": 503,
+    "source": "api"
+   },
+   {
+    "project_id": 1137,
+    "synced_at": "2026-05-21T21:30:00Z",
+    "records": 208,
+    "source": "batch"
+   },
+   {
+    "project_id": 1097,
+    "synced_at": "2026-07-10T02:45:00Z",
+    "records": 729,
+    "source": "manual"
+   },
+   {
+    "project_id": 1078,
+    "synced_at": "2026-07-09T12:45:00Z",
+    "records": 875,
+    "source": "manual"
+   },
+   {
+    "project_id": 1107,
+    "synced_at": "2026-06-10T16:30:00Z",
+    "records": 90,
+    "source": "api"
+   },
+   {
+    "project_id": 1193,
+    "synced_at": "2026-05-28T00:15:00Z",
+    "records": 733,
+    "source": "batch"
+   },
+   {
+    "project_id": 1029,
+    "synced_at": "2026-05-14T08:45:00Z",
+    "records": 714,
+    "source": "api"
+   },
+   {
+    "project_id": 1189,
+    "synced_at": "2026-04-01T22:45:00Z",
+    "records": 372,
+    "source": "batch"
+   },
+   {
+    "project_id": 1163,
+    "synced_at": "2026-06-19T13:30:00Z",
+    "records": 607,
+    "source": "manual"
+   },
+   {
+    "project_id": 1043,
+    "synced_at": "2026-02-13T10:45:00Z",
+    "records": 189,
+    "source": "manual"
+   },
+   {
+    "project_id": 1072,
+    "synced_at": "2026-07-08T12:45:00Z",
+    "records": 764,
+    "source": "manual"
+   },
+   {
+    "project_id": 1147,
+    "synced_at": "2026-05-23T04:45:00Z",
+    "records": 106,
+    "source": "api"
+   },
+   {
+    "project_id": 1045,
+    "synced_at": "2026-07-05T15:00:00Z",
+    "records": 809,
+    "source": "batch"
+   },
+   {
+    "project_id": 1072,
+    "synced_at": "2026-06-05T13:30:00Z",
+    "records": 160,
+    "source": "batch"
+   },
+   {
+    "project_id": 1193,
+    "synced_at": "2026-05-16T21:00:00Z",
+    "records": 354,
+    "source": "api"
+   },
+   {
+    "project_id": 1045,
+    "synced_at": "2026-04-23T20:00:00Z",
+    "records": 392,
+    "source": "manual"
+   },
+   {
+    "project_id": 1130,
+    "synced_at": "2026-05-26T06:45:00Z",
+    "records": 853,
+    "source": "manual"
+   },
+   {
+    "project_id": 1090,
+    "synced_at": "2026-07-17T13:45:00Z",
+    "records": 76,
+    "source": "api"
+   },
+   {
+    "project_id": 1140,
+    "synced_at": "2026-02-28T06:45:00Z",
+    "records": 301,
+    "source": "batch"
+   },
+   {
+    "project_id": 1008,
+    "synced_at": "2026-07-14T07:45:00Z",
+    "records": 361,
+    "source": "api"
+   },
+   {
+    "project_id": 1166,
+    "synced_at": "2026-04-02T08:45:00Z",
+    "records": 299,
+    "source": "api"
+   },
+   {
+    "project_id": 1059,
+    "synced_at": "2026-06-02T07:15:00Z",
+    "records": 705,
+    "source": "manual"
+   },
+   {
+    "project_id": 1005,
+    "synced_at": "2026-06-01T19:15:00Z",
+    "records": 869,
+    "source": "manual"
+   },
+   {
+    "project_id": 1129,
+    "synced_at": "2026-06-07T12:15:00Z",
+    "records": 540,
+    "source": "api"
+   },
+   {
+    "project_id": 1136,
+    "synced_at": "2026-01-18T22:30:00Z",
+    "records": 809,
+    "source": "manual"
+   },
+   {
+    "project_id": 1091,
+    "synced_at": "2026-06-28T10:30:00Z",
+    "records": 321,
+    "source": "api"
+   },
+   {
+    "project_id": 1004,
+    "synced_at": "2026-03-13T18:45:00Z",
+    "records": 822,
+    "source": "api"
+   },
+   {
+    "project_id": 1127,
+    "synced_at": "2026-05-12T21:00:00Z",
+    "records": 703,
+    "source": "manual"
+   },
+   {
+    "project_id": 1105,
+    "synced_at": "2026-06-25T09:30:00Z",
+    "records": 365,
+    "source": "batch"
+   },
+   {
+    "project_id": 1034,
+    "synced_at": "2026-06-12T04:00:00Z",
+    "records": 710,
+    "source": "api"
+   },
+   {
+    "project_id": 1197,
+    "synced_at": "2026-04-16T08:15:00Z",
+    "records": 77,
+    "source": "batch"
+   },
+   {
+    "project_id": 1176,
+    "synced_at": "2026-05-11T03:45:00Z",
+    "records": 533,
+    "source": "batch"
+   },
+   {
+    "project_id": 1118,
+    "synced_at": "2026-07-24T18:45:00Z",
+    "records": 141,
+    "source": "manual"
+   },
+   {
+    "project_id": 1110,
+    "synced_at": "2026-04-20T18:00:00Z",
+    "records": 560,
+    "source": "batch"
+   },
+   {
+    "project_id": 1186,
+    "synced_at": "2026-07-09T23:45:00Z",
+    "records": 100,
+    "source": "manual"
+   },
+   {
+    "project_id": 1109,
+    "synced_at": "2026-05-15T18:00:00Z",
+    "records": 838,
+    "source": "manual"
+   },
+   {
+    "project_id": 1166,
+    "synced_at": "2026-07-22T15:45:00Z",
+    "records": 760,
+    "source": "batch"
+   },
+   {
+    "project_id": 1073,
+    "synced_at": "2026-07-12T18:45:00Z",
+    "records": 358,
+    "source": "manual"
+   },
+   {
+    "project_id": 1012,
+    "synced_at": "2026-07-10T10:30:00Z",
+    "records": 626,
+    "source": "manual"
+   },
+   {
+    "project_id": 1131,
+    "synced_at": "2026-07-06T03:30:00Z",
+    "records": 852,
+    "source": "batch"
+   },
+   {
+    "project_id": 1033,
+    "synced_at": "2026-07-27T07:30:00Z",
+    "records": 501,
+    "source": "manual"
+   },
+   {
+    "project_id": 1154,
+    "synced_at": "2026-02-18T04:30:00Z",
+    "records": 559,
+    "source": "api"
+   },
+   {
+    "project_id": 1025,
+    "synced_at": "2026-06-13T20:00:00Z",
+    "records": 751,
+    "source": "batch"
+   },
+   {
+    "project_id": 1056,
+    "synced_at": "2026-04-10T11:30:00Z",
+    "records": 481,
+    "source": "api"
+   },
+   {
+    "project_id": 1142,
+    "synced_at": "2026-06-26T05:30:00Z",
+    "records": 227,
+    "source": "manual"
+   },
+   {
+    "project_id": 1014,
+    "synced_at": "2026-04-27T14:15:00Z",
+    "records": 853,
+    "source": "api"
+   },
+   {
+    "project_id": 1051,
+    "synced_at": "2026-03-27T17:15:00Z",
+    "records": 78,
+    "source": "api"
+   },
+   {
+    "project_id": 1153,
+    "synced_at": "2026-07-28T18:45:00Z",
+    "records": 40,
+    "source": "api"
+   },
+   {
+    "project_id": 1038,
+    "synced_at": "2026-05-01T02:30:00Z",
+    "records": 530,
+    "source": "manual"
+   },
+   {
+    "project_id": 1061,
+    "synced_at": "2026-07-19T13:00:00Z",
+    "records": 203,
+    "source": "api"
+   },
+   {
+    "project_id": 1080,
+    "synced_at": "2026-03-06T21:00:00Z",
+    "records": 317,
+    "source": "batch"
+   },
+   {
+    "project_id": 1043,
+    "synced_at": "2026-04-27T14:00:00Z",
+    "records": 383,
+    "source": "api"
+   },
+   {
+    "project_id": 1108,
+    "synced_at": "2026-04-19T17:00:00Z",
+    "records": 508,
+    "source": "manual"
+   },
+   {
+    "project_id": 1052,
+    "synced_at": "2026-05-09T18:15:00Z",
+    "records": 377,
+    "source": "api"
+   },
+   {
+    "project_id": 1127,
+    "synced_at": "2026-07-14T07:30:00Z",
+    "records": 350,
+    "source": "batch"
+   },
+   {
+    "project_id": 1101,
+    "synced_at": "2026-07-20T01:00:00Z",
+    "records": 513,
+    "source": "api"
+   },
+   {
+    "project_id": 1128,
+    "synced_at": "2026-04-19T09:00:00Z",
+    "records": 894,
+    "source": "batch"
+   },
+   {
+    "project_id": 9003,
+    "synced_at": "2026-07-01T10:00:00Z",
+    "records": 103,
+    "source": "api"
+   },
+   {
+    "project_id": 1083,
+    "synced_at": "2026-03-19T01:45:00Z",
+    "records": 327,
+    "source": "manual"
+   },
+   {
+    "project_id": 1051,
+    "synced_at": "2026-05-26T11:00:00Z",
+    "records": 653,
+    "source": "api"
+   },
+   {
+    "project_id": 1168,
+    "synced_at": "2026-02-05T04:45:00Z",
+    "records": 653,
+    "source": "batch"
+   },
+   {
+    "project_id": 1078,
+    "synced_at": "2026-04-10T10:15:00Z",
+    "records": 47,
+    "source": "api"
+   },
+   {
+    "project_id": 1005,
+    "synced_at": "2026-06-06T04:30:00Z",
+    "records": 406,
+    "source": "manual"
+   },
+   {
+    "project_id": 1060,
+    "synced_at": "2026-07-02T09:30:00Z",
+    "records": -75,
+    "source": "batch"
+   },
+   {
+    "project_id": 1017,
+    "synced_at": "2026-04-16T16:45:00Z",
+    "records": 415,
+    "source": "api"
+   },
+   {
+    "project_id": 1090,
+    "synced_at": "2026-07-06T19:45:00Z",
+    "records": 880,
+    "source": "manual"
+   },
+   {
+    "project_id": 1096,
+    "synced_at": "2026-05-22T05:15:00Z",
+    "records": 66,
+    "source": "batch"
+   },
+   {
+    "project_id": 1116,
+    "synced_at": "2026-07-04T03:30:00Z",
+    "records": 93,
+    "source": "manual"
+   },
+   {
+    "project_id": 1106,
+    "synced_at": "2026-05-27T20:15:00Z",
+    "records": 761,
+    "source": "manual"
+   },
+   {
+    "project_id": 1101,
+    "synced_at": "2026-07-06T02:30:00Z",
+    "records": 899,
+    "source": "api"
+   },
+   {
+    "project_id": 1151,
+    "synced_at": "2026-05-28T04:30:00Z",
+    "records": 661,
+    "source": "api"
+   },
+   {
+    "project_id": 1033,
+    "synced_at": "not-a-date",
+    "records": 55,
+    "source": "api"
+   },
+   {
+    "project_id": 1152,
+    "synced_at": "2026-07-20T12:00:00Z",
+    "records": 234,
+    "source": "api"
+   },
+   {
+    "project_id": 1065,
+    "synced_at": "2026-03-19T18:00:00Z",
+    "records": 775,
+    "source": "api"
+   },
+   {
+    "project_id": 1092,
+    "synced_at": "2026-05-25T05:15:00Z",
+    "records": 276,
+    "source": "manual"
+   },
+   {
+    "project_id": 1195,
+    "synced_at": "2026-04-12T01:00:00Z",
+    "records": 486,
+    "source": "manual"
+   },
+   {
+    "project_id": 1059,
+    "synced_at": "2026-06-19T21:45:00Z",
+    "records": 405,
+    "source": "api"
+   },
+   {
+    "project_id": 1052,
+    "synced_at": "2026-07-15T10:00:00Z",
+    "records": 542,
+    "source": "batch"
+   },
+   {
+    "project_id": 1057,
+    "synced_at": "2026-07-04T13:45:00Z",
+    "records": 427,
+    "source": "batch"
+   },
+   {
+    "project_id": 1194,
+    "synced_at": "2026-02-18T00:00:00Z",
+    "records": 686,
+    "source": "api"
+   },
+   {
+    "project_id": 1122,
+    "synced_at": "2026-04-21T11:00:00Z",
+    "records": 112,
+    "source": "manual"
+   },
+   {
+    "project_id": 1115,
+    "synced_at": "2026-02-04T12:00:00Z",
+    "records": 808,
+    "source": "batch"
+   },
+   {
+    "project_id": 1023,
+    "synced_at": "2026-06-12T07:15:00Z",
+    "records": 109,
+    "source": "batch"
+   },
+   {
+    "project_id": 1171,
+    "synced_at": "2026-07-12T10:00:00Z",
+    "records": 220,
+    "source": "api"
+   },
+   {
+    "project_id": 1106,
+    "synced_at": "2026-05-07T20:15:00Z",
+    "records": 567,
+    "source": "api"
+   },
+   {
+    "project_id": 1028,
+    "synced_at": "2026-06-19T02:15:00Z",
+    "records": 721,
+    "source": "manual"
+   },
+   {
+    "project_id": 1035,
+    "synced_at": "2026-05-27T10:45:00Z",
+    "records": 512,
+    "source": "api"
+   },
+   {
+    "project_id": 1007,
+    "synced_at": "2026-05-20T15:30:00Z",
+    "records": 344,
+    "source": "api"
+   },
+   {
+    "project_id": 1031,
+    "synced_at": "2026-06-10T23:15:00Z",
+    "records": 331,
+    "source": "batch"
+   },
+   {
+    "project_id": 1078,
+    "synced_at": "2026-05-04T16:30:00Z",
+    "records": 408,
+    "source": "api"
+   },
+   {
+    "project_id": 1089,
+    "synced_at": "2026-06-18T23:15:00Z",
+    "records": 550,
+    "source": "api"
+   },
+   {
+    "project_id": 9000,
+    "synced_at": "2026-07-01T10:00:00Z",
+    "records": 100,
+    "source": "api"
+   },
+   {
+    "project_id": 1001,
+    "synced_at": "2026-05-10T15:15:00Z",
+    "records": 785,
+    "source": "batch"
+   },
+   {
+    "project_id": 1048,
+    "synced_at": "2026-07-02T20:00:00Z",
+    "records": 575,
+    "source": "batch"
+   },
+   {
+    "project_id": 1077,
+    "synced_at": "2026-05-14T15:30:00Z",
+    "records": 342,
+    "source": "batch"
+   },
+   {
+    "project_id": 1041,
+    "synced_at": "2026-03-10T20:30:00Z",
+    "records": 449,
+    "source": "manual"
+   },
+   {
+    "project_id": 1015,
+    "synced_at": "2026-05-20T19:30:00Z",
+    "records": 434,
+    "source": "manual"
+   },
+   {
+    "project_id": 1042,
+    "synced_at": "2026-04-01T06:30:00Z",
+    "records": 73,
+    "source": "batch"
+   },
+   {
+    "project_id": 1100,
+    "synced_at": "2026-04-04T05:15:00Z",
+    "records": 665,
+    "source": "api"
+   },
+   {
+    "project_id": 1079,
+    "synced_at": "2026-06-21T09:00:00Z",
+    "records": 418,
+    "source": "batch"
+   },
+   {
+    "project_id": 1058,
+    "synced_at": "2026-07-02T09:30:00Z",
+    "records": -410,
+    "source": "batch"
+   },
+   {
+    "project_id": 1110,
+    "synced_at": "2026-05-09T07:15:00Z",
+    "records": 591,
+    "source": "manual"
+   },
+   {
+    "project_id": 1085,
+    "synced_at": "2026-06-28T04:45:00Z",
+    "records": 574,
+    "source": "batch"
+   },
+   {
+    "project_id": 1103,
+    "synced_at": "2026-04-14T10:00:00Z",
+    "records": 362,
+    "source": "batch"
+   },
+   {
+    "project_id": 1098,
+    "synced_at": "2026-06-20T05:30:00Z",
+    "records": 471,
+    "source": "api"
+   },
+   {
+    "project_id": 1023,
+    "synced_at": "2026-06-27T20:15:00Z",
+    "records": 77,
+    "source": "manual"
+   },
+   {
+    "project_id": 1160,
+    "synced_at": "2026-07-22T18:00:00Z",
+    "records": 873,
+    "source": "api"
+   },
+   {
+    "project_id": 1036,
+    "synced_at": "2026-03-10T11:30:00Z",
+    "records": 605,
+    "source": "manual"
+   },
+   {
+    "project_id": 1126,
+    "synced_at": "2026-06-25T07:30:00Z",
+    "records": 308,
+    "source": "manual"
+   },
+   {
+    "project_id": 1132,
+    "synced_at": "2026-07-24T03:15:00Z",
+    "records": 694,
+    "source": "batch"
+   },
+   {
+    "project_id": 1190,
+    "synced_at": "2026-03-16T01:45:00Z",
+    "records": 533,
+    "source": "api"
+   },
+   {
+    "project_id": 1150,
+    "synced_at": "2026-06-18T13:15:00Z",
+    "records": 776,
+    "source": "api"
+   },
+   {
+    "project_id": 1146,
+    "synced_at": "2026-05-15T14:30:00Z",
+    "records": 640,
+    "source": "batch"
+   },
+   {
+    "project_id": 1029,
+    "synced_at": "2026-05-14T08:45:00Z",
+    "records": 714,
+    "source": "api"
+   },
+   {
+    "project_id": 1026,
+    "synced_at": "2026-07-04T04:00:00Z",
+    "records": 703,
+    "source": "batch"
+   },
+   {
+    "project_id": 1174,
+    "synced_at": "2026-05-15T16:45:00Z",
+    "records": 569,
+    "source": "manual"
+   },
+   {
+    "project_id": 1160,
+    "synced_at": "2026-04-01T03:45:00Z",
+    "records": 680,
+    "source": "api"
+   },
+   {
+    "project_id": 1191,
+    "synced_at": "2026-07-07T14:45:00Z",
+    "records": 525,
+    "source": "api"
+   },
+   {
+    "project_id": 1158,
+    "synced_at": "2026-07-21T15:30:00Z",
+    "records": 139,
+    "source": "api"
+   },
+   {
+    "project_id": 1192,
+    "synced_at": "2026-06-17T20:30:00Z",
+    "records": 260,
+    "source": "api"
+   },
+   {
+    "project_id": 1161,
+    "synced_at": "2026-05-22T21:45:00Z",
+    "records": 669,
+    "source": "batch"
+   },
+   {
+    "project_id": 1179,
+    "synced_at": "2026-07-14T11:45:00Z",
+    "records": 157,
+    "source": "api"
+   },
+   {
+    "project_id": 1107,
+    "synced_at": "2026-04-06T16:15:00Z",
+    "records": 183,
+    "source": "api"
+   },
+   {
+    "project_id": 9002,
+    "synced_at": "2026-07-01T10:00:00Z",
+    "records": 102,
+    "source": "api"
+   },
+   {
+    "project_id": 1070,
+    "synced_at": "2026-04-17T18:45:00Z",
+    "records": 781,
+    "source": "batch"
+   },
+   {
+    "project_id": 1069,
+    "synced_at": "2026-04-21T04:15:00Z",
+    "records": 264,
+    "source": "manual"
+   },
+   {
+    "project_id": 1141,
+    "synced_at": "2026-04-14T01:15:00Z",
+    "records": 667,
+    "source": "api"
+   },
+   {
+    "project_id": 1108,
+    "synced_at": "2026-03-01T08:45:00Z",
+    "records": 821,
+    "source": "manual"
+   },
+   {
+    "project_id": 1043,
+    "synced_at": "2026-07-23T01:00:00Z",
+    "records": 154,
+    "source": "api"
+   },
+   {
+    "project_id": 1077,
+    "synced_at": "2026-07-17T12:00:00Z",
+    "records": 537,
+    "source": "api"
+   },
+   {
+    "project_id": 9004,
+    "synced_at": "2026-07-01T10:00:00Z",
+    "records": 104,
+    "source": "api"
+   },
+   {
+    "project_id": 1082,
+    "synced_at": "2026-02-15T12:45:00Z",
+    "records": 155,
+    "source": "manual"
+   },
+   {
+    "project_id": 1149,
+    "synced_at": "2026-06-22T13:15:00Z",
+    "records": 404,
+    "source": "manual"
+   },
+   {
+    "project_id": 1134,
+    "synced_at": "2026-05-22T10:30:00Z",
+    "records": 629,
+    "source": "api"
+   },
+   {
+    "project_id": 1095,
+    "synced_at": "2026-03-19T13:45:00Z",
+    "records": 602,
+    "source": "api"
+   },
+   {
+    "project_id": 1013,
+    "synced_at": "2026-06-27T01:30:00Z",
+    "records": 241,
+    "source": "batch"
+   },
+   {
+    "project_id": 1108,
+    "synced_at": "2026-04-06T07:00:00Z",
+    "records": 814,
+    "source": "api"
+   },
+   {
+    "project_id": 1088,
+    "synced_at": "2026-06-25T14:30:00Z",
+    "records": 289,
+    "source": "manual"
+   },
+   {
+    "project_id": 1087,
+    "synced_at": "2026-04-21T19:45:00Z",
+    "records": 60,
+    "source": "batch"
+   },
+   {
+    "project_id": 1137,
+    "synced_at": "2026-06-03T10:00:00Z",
+    "records": 777,
+    "source": "manual"
+   },
+   {
+    "project_id": 1009,
+    "synced_at": "2026-05-27T19:00:00Z",
+    "records": 336,
+    "source": "batch"
+   },
+   {
+    "project_id": 1091,
+    "synced_at": "2026-06-09T04:45:00Z",
+    "records": 77,
+    "source": "batch"
+   },
+   {
+    "project_id": 1047,
+    "synced_at": "2026-06-24T02:15:00Z",
+    "records": 133,
+    "source": "api"
+   },
+   {
+    "project_id": 1030,
+    "synced_at": "2026-01-16T23:15:00Z",
+    "records": 248,
+    "source": "manual"
+   },
+   {
+    "project_id": 1174,
+    "synced_at": "2026-06-28T00:00:00Z",
+    "records": 172,
+    "source": "batch"
+   },
+   {
+    "project_id": 1125,
+    "synced_at": "2026-07-03T09:30:00Z",
+    "source": "api"
+   },
+   {
+    "project_id": 1178,
+    "synced_at": "2026-06-12T20:30:00Z",
+    "records": 281,
+    "source": "api"
+   },
+   {
+    "project_id": 1033,
+    "synced_at": "2026-06-24T15:15:00Z",
+    "records": 146,
+    "source": "api"
+   },
+   {
+    "project_id": 1193,
+    "synced_at": "2026-05-16T21:00:00Z",
+    "records": 354,
+    "source": "api"
+   },
+   {
+    "project_id": 9001,
+    "synced_at": "2026-07-01T10:00:00Z",
+    "records": 101,
+    "source": "api"
+   },
+   {
+    "project_id": 1105,
+    "synced_at": "2026-06-25T18:30:00Z",
+    "records": 257,
+    "source": "api"
+   },
+   {
+    "project_id": 1191,
+    "synced_at": "2026-05-19T19:45:00Z",
+    "records": 195,
+    "source": "batch"
+   },
+   {
+    "project_id": 1081,
+    "synced_at": "2026-07-20T20:00:00Z",
+    "records": 117,
+    "source": "manual"
+   },
+   {
+    "project_id": 1049,
+    "synced_at": "2026-06-22T22:45:00Z",
+    "records": 627,
+    "source": "manual"
+   },
+   {
+    "project_id": 1175,
+    "synced_at": "2026-05-28T18:15:00Z",
+    "records": 864,
+    "source": "manual"
+   },
+   {
+    "project_id": 1120,
+    "synced_at": "2026-01-25T12:15:00Z",
+    "records": 40,
+    "source": "api"
+   },
+   {
+    "project_id": 1058,
+    "synced_at": "2026-05-23T04:45:00Z",
+    "records": 377,
+    "source": "api"
+   },
+   {
+    "project_id": 1168,
+    "synced_at": "2026-02-16T14:30:00Z",
+    "records": 738,
+    "source": "manual"
+   },
+   {
+    "project_id": 1171,
+    "synced_at": "2026-02-10T06:00:00Z",
+    "records": 170,
+    "source": "manual"
+   },
+   {
+    "project_id": 1050,
+    "synced_at": "2026-05-27T14:15:00Z",
+    "records": 759,
+    "source": "batch"
+   },
+   {
+    "project_id": 1084,
+    "synced_at": "2026-07-11T17:30:00Z",
+    "records": 729,
+    "source": "manual"
+   },
+   {
+    "project_id": 1111,
+    "synced_at": "2026-04-10T09:00:00Z",
+    "records": 771,
+    "source": "api"
+   },
+   {
+    "project_id": 1139,
+    "synced_at": "2026-04-20T07:15:00Z",
+    "records": 415,
+    "source": "batch"
+   },
+   {
+    "project_id": 1102,
+    "synced_at": "2026-05-09T16:45:00Z",
+    "records": 66,
+    "source": "manual"
+   },
+   {
+    "project_id": 1021,
+    "synced_at": "2026-05-26T19:15:00Z",
+    "records": 101,
+    "source": "batch"
+   },
+   {
+    "project_id": 1040,
+    "synced_at": "2026-02-27T18:45:00Z",
+    "records": 363,
+    "source": "api"
+   },
+   {
+    "project_id": 1081,
+    "synced_at": "2026-07-28T17:45:00Z",
+    "records": 695,
+    "source": "manual"
+   },
+   {
+    "project_id": 1112,
+    "synced_at": "2026-04-15T13:30:00Z",
+    "records": 695,
+    "source": "api"
+   },
+   {
+    "project_id": 1093,
+    "synced_at": "2026-04-08T02:45:00Z",
+    "records": 80,
+    "source": "manual"
+   },
+   {
+    "project_id": 1120,
+    "synced_at": "2026-06-17T09:30:00Z",
+    "records": 299,
+    "source": "batch"
+   },
+   {
+    "project_id": 1034,
+    "synced_at": "2026-07-04T19:30:00Z",
+    "records": 238,
+    "source": "api"
+   },
+   {
+    "project_id": 1180,
+    "synced_at": "2026-05-11T10:00:00Z",
+    "records": 881,
+    "source": "api"
+   },
+   {
+    "project_id": 1169,
+    "synced_at": "2026-06-12T00:30:00Z",
+    "records": 522,
+    "source": "api"
+   },
+   {
+    "project_id": 1094,
+    "synced_at": "2026-07-12T15:30:00Z",
+    "records": 899,
+    "source": "manual"
+   },
+   {
+    "project_id": 1145,
+    "synced_at": "2026-05-03T10:30:00Z",
+    "records": 531,
+    "source": "manual"
+   },
+   {
+    "project_id": 1161,
+    "synced_at": "2026-06-19T09:15:00Z",
+    "records": 391,
+    "source": "batch"
+   },
+   {
+    "project_id": 1102,
+    "synced_at": "2026-07-01T20:15:00Z",
+    "records": 795,
+    "source": "api"
+   },
+   {
+    "project_id": 1135,
+    "synced_at": "2026-04-06T08:15:00Z",
+    "records": 886,
+    "source": "batch"
+   },
+   {
+    "project_id": 1193,
+    "synced_at": "2026-07-06T04:45:00Z",
+    "records": 789,
+    "source": "batch"
+   },
+   {
+    "project_id": 1068,
+    "synced_at": "2026-04-11T08:30:00Z",
+    "records": 815,
+    "source": "manual"
+   },
+   {
+    "project_id": 1198,
+    "synced_at": "2026-07-14T13:45:00Z",
+    "records": 734,
+    "source": "batch"
+   },
+   {
+    "project_id": 1157,
+    "synced_at": "2026-03-16T08:00:00Z",
+    "records": 727,
+    "source": "api"
+   },
+   {
+    "project_id": 1149,
+    "synced_at": "2026-07-05T11:15:00Z",
+    "records": 304,
+    "source": "api"
+   },
+   {
+    "project_id": 1038,
+    "synced_at": "2026-04-20T02:00:00Z",
+    "records": 645,
+    "source": "api"
+   },
+   {
+    "project_id": 1181,
+    "synced_at": "2026-04-08T04:30:00Z",
+    "records": 835,
+    "source": "batch"
+   },
+   {
+    "project_id": 1190,
+    "synced_at": "2026-06-05T01:30:00Z",
+    "records": 536,
+    "source": "api"
+   },
+   {
+    "project_id": 1176,
+    "synced_at": "2026-07-10T11:45:00Z",
+    "records": 377,
+    "source": "manual"
+   },
+   {
+    "project_id": 1192,
+    "synced_at": "2026-03-06T15:45:00Z",
+    "records": 185,
+    "source": "api"
+   },
+   {
+    "project_id": 1160,
+    "synced_at": "2026-04-04T23:45:00Z",
+    "records": 458,
+    "source": "batch"
+   },
+   {
+    "project_id": 1034,
+    "synced_at": "not-a-date",
+    "records": 55,
+    "source": "api"
+   },
+   {
+    "project_id": 1154,
+    "synced_at": "2026-04-02T20:45:00Z",
+    "records": 572,
+    "source": "api"
+   },
+   {
+    "project_id": 1100,
+    "synced_at": "2026-02-16T15:30:00Z",
+    "records": 298,
+    "source": "batch"
+   },
+   {
+    "project_id": 1138,
+    "synced_at": "2026-04-23T12:15:00Z",
+    "records": 735,
+    "source": "batch"
+   },
+   {
+    "project_id": 1075,
+    "synced_at": "2026-06-01T01:45:00Z",
+    "records": 373,
+    "source": "api"
+   },
+   {
+    "project_id": 1053,
+    "synced_at": "2026-04-04T09:15:00Z",
+    "records": 565,
+    "source": "api"
+   },
+   {
+    "project_id": 1172,
+    "synced_at": "2026-07-16T15:45:00Z",
+    "records": 634,
+    "source": "batch"
+   },
+   {
+    "project_id": 1181,
+    "synced_at": "2026-03-27T14:30:00Z",
+    "records": 56,
+    "source": "batch"
+   },
+   {
+    "project_id": 1113,
+    "synced_at": "2026-03-13T01:30:00Z",
+    "records": 580,
+    "source": "manual"
+   },
+   {
+    "project_id": 1047,
+    "synced_at": "2026-06-24T22:15:00Z",
+    "records": 477,
+    "source": "batch"
+   },
+   {
+    "project_id": 1123,
+    "synced_at": "2026-05-21T04:45:00Z",
+    "records": 699,
+    "source": "manual"
+   },
+   {
+    "project_id": 1069,
+    "synced_at": "2026-04-21T04:15:00Z",
+    "records": 264,
+    "source": "manual"
+   },
+   {
+    "project_id": 1066,
+    "synced_at": "2026-03-03T08:30:00Z",
+    "records": 781,
+    "source": "batch"
+   },
+   {
+    "project_id": 1163,
+    "synced_at": "2026-06-18T10:45:00Z",
+    "records": 226,
+    "source": "manual"
+   },
+   {
+    "project_id": 1156,
+    "synced_at": "2026-06-12T09:00:00Z",
+    "records": 423,
+    "source": "api"
+   },
+   {
+    "project_id": 1029,
+    "synced_at": "2026-07-25T17:15:00Z",
+    "records": 700,
+    "source": "api"
+   },
+   {
+    "project_id": 1177,
+    "synced_at": "2026-05-19T02:00:00Z",
+    "records": 759,
+    "source": "api"
+   },
+   {
+    "project_id": 1130,
+    "synced_at": "2026-07-14T13:30:00Z",
+    "records": 125,
+    "source": "batch"
+   },
+   {
+    "project_id": 1006,
+    "synced_at": "2026-02-14T19:30:00Z",
+    "records": 407,
+    "source": "api"
+   },
+   {
+    "project_id": 1049,
+    "synced_at": "2026-06-26T12:30:00Z",
+    "records": 752,
+    "source": "batch"
+   },
+   {
+    "project_id": 1191,
+    "synced_at": "2026-04-28T15:45:00Z",
+    "records": 757,
+    "source": "api"
+   },
+   {
+    "project_id": 1149,
+    "synced_at": "2026-04-11T00:45:00Z",
+    "records": 109,
+    "source": "manual"
+   },
+   {
+    "project_id": 1048,
+    "synced_at": "2026-07-25T03:15:00Z",
+    "records": 220,
+    "source": "batch"
+   },
+   {
+    "project_id": 1009,
+    "synced_at": "2026-05-27T14:45:00Z",
+    "records": 881,
+    "source": "api"
+   },
+   {
+    "project_id": 1023,
+    "synced_at": "2026-05-17T17:00:00Z",
+    "records": 309,
+    "source": "batch"
+   },
+   {
+    "project_id": 1125,
+    "synced_at": "2026-06-16T12:45:00Z",
+    "records": 701,
+    "source": "batch"
+   },
+   {
+    "project_id": 1064,
+    "synced_at": "2026-07-07T19:30:00Z",
+    "records": 637,
+    "source": "manual"
+   },
+   {
+    "project_id": 1162,
+    "synced_at": "2026-04-18T06:45:00Z",
+    "records": 98,
+    "source": "manual"
+   },
+   {
+    "project_id": 1019,
+    "synced_at": "2026-03-17T17:45:00Z",
+    "records": 595,
+    "source": "api"
+   },
+   {
+    "project_id": 1197,
+    "synced_at": "2026-05-27T05:15:00Z",
+    "records": 149,
+    "source": "manual"
+   },
+   {
+    "project_id": 1100,
+    "synced_at": "2026-03-14T05:45:00Z",
+    "records": 88,
+    "source": "api"
+   },
+   {
+    "project_id": 1056,
+    "synced_at": "2026-06-21T23:00:00Z",
+    "records": 282,
+    "source": "batch"
+   },
+   {
+    "project_id": 1086,
+    "synced_at": "2026-07-04T05:45:00Z",
+    "records": 286,
+    "source": "batch"
+   },
+   {
+    "project_id": 1034,
+    "synced_at": "2026-04-25T03:45:00Z",
+    "records": 561,
+    "source": "batch"
+   },
+   {
+    "project_id": 1080,
+    "synced_at": "2026-03-18T18:15:00Z",
+    "records": 864,
+    "source": "api"
+   },
+   {
+    "project_id": 1085,
+    "synced_at": "2026-06-28T11:45:00Z",
+    "records": 243,
+    "source": "batch"
+   },
+   {
+    "project_id": 1043,
+    "synced_at": "2026-04-27T14:00:00Z",
+    "records": 383,
+    "source": "api"
+   },
+   {
+    "project_id": 1095,
+    "synced_at": "2026-03-17T18:30:00Z",
+    "records": 43,
+    "source": "manual"
+   },
+   {
+    "project_id": 1130,
+    "synced_at": "2026-04-11T09:15:00Z",
+    "records": 486,
+    "source": "batch"
+   },
+   {
+    "project_id": 1005,
+    "synced_at": "2026-06-19T22:45:00Z",
+    "records": 336,
+    "source": "manual"
+   },
+   {
+    "project_id": 1119,
+    "synced_at": "2026-07-18T12:30:00Z",
+    "records": 248,
+    "source": "api"
+   },
+   {
+    "project_id": 1088,
+    "synced_at": "2026-06-24T02:15:00Z",
+    "records": 319,
+    "source": "api"
+   },
+   {
+    "project_id": 1165,
+    "synced_at": "2026-07-11T20:00:00Z",
+    "records": 419,
+    "source": "batch"
+   },
+   {
+    "project_id": 1084,
+    "synced_at": "2026-04-28T15:30:00Z",
+    "records": 134,
+    "source": "api"
+   },
+   {
+    "project_id": 1039,
+    "synced_at": "2026-05-24T22:00:00Z",
+    "records": 576,
+    "source": "api"
+   },
+   {
+    "project_id": 1091,
+    "synced_at": "2026-07-03T19:30:00Z",
+    "records": 42,
+    "source": "batch"
+   },
+   {
+    "project_id": 1177,
+    "synced_at": "2026-06-20T23:00:00Z",
+    "records": 782,
+    "source": "manual"
+   },
+   {
+    "project_id": 1006,
+    "synced_at": "2026-05-01T01:30:00Z",
+    "records": 496,
+    "source": "api"
+   },
+   {
+    "project_id": 1186,
+    "synced_at": "2026-07-24T08:00:00Z",
+    "records": 585,
+    "source": "api"
+   },
+   {
+    "project_id": 1135,
+    "synced_at": "2026-06-22T11:15:00Z",
+    "records": 379,
+    "source": "manual"
+   },
+   {
+    "project_id": 1035,
+    "synced_at": "2026-05-28T13:00:00Z",
+    "records": 114,
+    "source": "api"
+   },
+   {
+    "project_id": 1123,
+    "synced_at": "2026-05-07T22:45:00Z",
+    "records": 610,
+    "source": "batch"
+   },
+   {
+    "project_id": 1142,
+    "synced_at": "2026-07-08T07:15:00Z",
+    "records": 483,
+    "source": "batch"
+   },
+   {
+    "project_id": 1177,
+    "synced_at": "2026-05-19T02:00:00Z",
+    "records": 759,
+    "source": "api"
+   },
+   {
+    "project_id": 1103,
+    "synced_at": "2026-07-06T06:15:00Z",
+    "records": 749,
+    "source": "batch"
+   },
+   {
+    "project_id": 1020,
+    "synced_at": "2026-07-03T00:00:00Z",
+    "records": 85,
+    "source": "api"
+   },
+   {
+    "project_id": 1007,
+    "synced_at": "2026-05-12T05:00:00Z",
+    "records": 622,
+    "source": "batch"
+   },
+   {
+    "project_id": 1114,
+    "synced_at": "2026-01-27T08:00:00Z",
+    "records": 671,
+    "source": "batch"
+   },
+   {
+    "project_id": 1016,
+    "synced_at": "2026-05-17T03:00:00Z",
+    "records": 281,
+    "source": "batch"
+   },
+   {
+    "project_id": 1076,
+    "synced_at": "2026-04-10T02:00:00Z",
+    "records": 615,
+    "source": "api"
+   },
+   {
+    "project_id": 1060,
+    "synced_at": "2026-05-11T11:45:00Z",
+    "records": 83,
+    "source": "manual"
+   },
+   {
+    "project_id": 1113,
+    "synced_at": "2026-05-23T13:00:00Z",
+    "records": 531,
+    "source": "manual"
+   },
+   {
+    "project_id": 1121,
+    "synced_at": "2026-06-24T03:30:00Z",
+    "records": 143,
+    "source": "api"
+   },
+   {
+    "project_id": 1114,
+    "synced_at": "2026-04-02T13:30:00Z",
+    "records": 324,
+    "source": "api"
+   },
+   {
+    "project_id": 1124,
+    "synced_at": "2026-06-24T09:00:00Z",
+    "records": 522,
+    "source": "batch"
+   },
+   {
+    "project_id": 1133,
+    "synced_at": "2026-06-25T19:30:00Z",
+    "records": 852,
+    "source": "manual"
+   },
+   {
+    "project_id": 1160,
+    "synced_at": "2026-04-04T23:45:00Z",
+    "records": 458,
+    "source": "batch"
+   },
+   {
+    "project_id": 1189,
+    "synced_at": "2026-03-04T12:15:00Z",
+    "records": 337,
+    "source": "api"
+   },
+   {
+    "project_id": 1143,
+    "synced_at": "2026-07-21T00:15:00Z",
+    "records": 186,
+    "source": "manual"
+   },
+   {
+    "project_id": 1060,
+    "synced_at": "2026-06-11T17:15:00Z",
+    "records": 332,
+    "source": "api"
+   },
+   {
+    "project_id": 1048,
+    "synced_at": "2026-07-21T06:45:00Z",
+    "records": 77,
+    "source": "batch"
+   },
+   {
+    "project_id": 1153,
+    "synced_at": "2026-05-19T14:30:00Z",
+    "records": 408,
+    "source": "batch"
+   },
+   {
+    "project_id": 1076,
+    "synced_at": "2026-04-20T07:00:00Z",
+    "records": 709,
+    "source": "manual"
+   },
+   {
+    "project_id": 1163,
+    "synced_at": "2026-07-17T09:45:00Z",
+    "records": 735,
+    "source": "api"
+   },
+   {
+    "project_id": 1173,
+    "synced_at": "2026-04-06T21:30:00Z",
+    "records": 483,
+    "source": "manual"
+   },
+   {
+    "project_id": 1179,
+    "synced_at": "2026-05-14T13:15:00Z",
+    "records": 791,
+    "source": "api"
+   },
+   {
+    "project_id": 1013,
+    "synced_at": "2026-04-25T10:00:00Z",
+    "records": 630,
+    "source": "batch"
+   },
+   {
+    "project_id": 1074,
+    "synced_at": "2026-02-13T22:00:00Z",
+    "records": 733,
+    "source": "manual"
+   },
+   {
+    "project_id": 1176,
+    "synced_at": "2026-04-07T02:30:00Z",
+    "records": 238,
+    "source": "manual"
+   },
+   {
+    "project_id": 1157,
+    "synced_at": "2026-03-10T01:30:00Z",
+    "records": 683,
+    "source": "batch"
+   },
+   {
+    "project_id": 1045,
+    "synced_at": "2026-05-16T19:00:00Z",
+    "records": 53,
+    "source": "api"
+   },
+   {
+    "project_id": 1006,
+    "synced_at": "2026-07-18T09:00:00Z",
+    "records": 548,
+    "source": "manual"
+   },
+   {
+    "project_id": 1129,
+    "synced_at": "2026-07-07T01:30:00Z",
+    "records": 428,
+    "source": "api"
+   },
+   {
+    "project_id": 1154,
+    "synced_at": "2026-04-21T20:15:00Z",
+    "records": 320,
+    "source": "manual"
+   },
+   {
+    "project_id": 1082,
+    "synced_at": "2026-07-14T17:30:00Z",
+    "records": 130,
+    "source": "manual"
+   },
+   {
+    "project_id": 1141,
+    "synced_at": "2026-03-28T10:15:00Z",
+    "records": 297,
+    "source": "manual"
+   },
+   {
+    "project_id": 1188,
+    "synced_at": "2026-07-12T13:00:00Z",
+    "records": 393,
+    "source": "api"
+   },
+   {
+    "project_id": 1141,
+    "synced_at": "2026-04-11T17:15:00Z",
+    "records": 598,
+    "source": "batch"
+   },
+   {
+    "project_id": 1027,
+    "synced_at": "2026-06-03T04:45:00Z",
+    "records": 403,
+    "source": "manual"
+   },
+   {
+    "project_id": 1011,
+    "synced_at": "2026-06-24T14:00:00Z",
+    "records": 502,
+    "source": "manual"
+   },
+   {
+    "project_id": 1069,
+    "synced_at": "2026-07-18T12:00:00Z",
+    "records": 462,
+    "source": "manual"
+   },
+   {
+    "project_id": 1074,
+    "synced_at": "2026-05-24T02:15:00Z",
+    "records": 71,
+    "source": "batch"
+   },
+   {
+    "project_id": 1173,
+    "synced_at": "2026-05-13T11:30:00Z",
+    "records": 341,
+    "source": "batch"
+   },
+   {
+    "project_id": 1124,
+    "synced_at": "2026-05-16T14:30:00Z",
+    "records": 166,
+    "source": "manual"
+   },
+   {
+    "project_id": 1010,
+    "synced_at": "2026-06-16T10:00:00Z",
+    "records": 298,
+    "source": "manual"
+   },
+   {
+    "project_id": 1126,
+    "synced_at": "2026-07-04T00:15:00Z",
+    "records": 804,
+    "source": "api"
+   },
+   {
+    "project_id": 1100,
+    "synced_at": "2026-03-14T05:45:00Z",
+    "records": 88,
+    "source": "api"
+   },
+   {
+    "project_id": 1164,
+    "synced_at": "2026-07-14T10:30:00Z",
+    "records": 292,
+    "source": "manual"
+   },
+   {
+    "project_id": 1018,
+    "synced_at": "2026-01-12T01:15:00Z",
+    "records": 758,
+    "source": "manual"
+   },
+   {
+    "project_id": 1062,
+    "synced_at": "2026-06-25T22:45:00Z",
+    "records": 735,
+    "source": "api"
+   },
+   {
+    "project_id": 1036,
+    "synced_at": "2026-06-09T20:00:00Z",
+    "records": 678,
+    "source": "batch"
+   },
+   {
+    "project_id": 1062,
+    "synced_at": "2026-06-25T15:30:00Z",
+    "records": 688,
+    "source": "batch"
+   },
+   {
+    "project_id": 1055,
+    "synced_at": "2026-03-05T17:00:00Z",
+    "records": 580,
+    "source": "manual"
+   },
+   {
+    "project_id": 1054,
+    "synced_at": "2026-05-13T08:00:00Z",
+    "records": 76,
+    "source": "api"
+   },
+   {
+    "project_id": 1144,
+    "synced_at": "2026-06-17T21:15:00Z",
+    "records": 663,
+    "source": "manual"
+   },
+   {
+    "project_id": 1190,
+    "synced_at": "2026-05-24T12:45:00Z",
+    "records": 298,
+    "source": "batch"
+   },
+   {
+    "project_id": 1012,
+    "synced_at": "2026-05-18T21:30:00Z",
+    "records": 751,
+    "source": "batch"
+   },
+   {
+    "project_id": 1139,
+    "synced_at": "2026-05-04T02:45:00Z",
+    "records": 177,
+    "source": "manual"
+   },
+   {
+    "project_id": 1003,
+    "synced_at": "2026-04-22T13:45:00Z",
+    "records": 477,
+    "source": "manual"
+   },
+   {
+    "project_id": 1040,
+    "synced_at": "2026-07-08T10:00:00Z",
+    "records": 106,
+    "source": "manual"
+   },
+   {
+    "project_id": 1026,
+    "synced_at": "2026-07-19T20:15:00Z",
+    "records": 762,
+    "source": "api"
+   },
+   {
+    "project_id": 1049,
+    "synced_at": "2026-03-21T03:45:00Z",
+    "records": 619,
+    "source": "batch"
+   },
+   {
+    "project_id": 1079,
+    "synced_at": "2026-05-10T02:15:00Z",
+    "records": 126,
+    "source": "api"
+   },
+   {
+    "project_id": 1090,
+    "synced_at": "2026-03-16T05:30:00Z",
+    "records": 841,
+    "source": "api"
+   },
+   {
+    "project_id": 1053,
+    "synced_at": "2026-03-19T08:30:00Z",
+    "records": 856,
+    "source": "api"
+   },
+   {
+    "project_id": 1185,
+    "synced_at": "2026-07-12T15:45:00Z",
+    "records": 415,
+    "source": "batch"
+   },
+   {
+    "project_id": 1200,
+    "synced_at": "2026-06-13T08:00:00Z",
+    "records": 129,
+    "source": "batch"
+   },
+   {
+    "project_id": 1003,
+    "synced_at": "2026-04-06T14:45:00Z",
+    "records": 253,
+    "source": "batch"
+   },
+   {
+    "project_id": 1099,
+    "synced_at": "2026-05-23T04:45:00Z",
+    "records": 728,
+    "source": "batch"
+   },
+   {
+    "project_id": 1064,
+    "synced_at": "2026-07-16T16:30:00Z",
+    "records": 385,
+    "source": "manual"
+   },
+   {
+    "project_id": 1155,
+    "synced_at": "2026-07-03T09:30:00Z",
+    "source": "api"
+   },
+   {
+    "project_id": 1195,
+    "synced_at": "2026-05-08T21:00:00Z",
+    "records": 614,
+    "source": "api"
+   },
+   {
+    "project_id": 1090,
+    "synced_at": "2026-07-17T13:45:00Z",
+    "records": 76,
+    "source": "api"
+   },
+   {
+    "project_id": 1047,
+    "synced_at": "2026-07-19T01:30:00Z",
+    "records": 423,
+    "source": "api"
+   },
+   {
+    "project_id": 1022,
+    "synced_at": "2026-06-16T15:00:00Z",
+    "records": 169,
+    "source": "api"
+   },
+   {
+    "project_id": 1170,
+    "synced_at": "2026-07-08T21:15:00Z",
+    "records": 763,
+    "source": "batch"
+   },
+   {
+    "project_id": 1035,
+    "synced_at": "2026-05-27T20:30:00Z",
+    "records": 309,
+    "source": "api"
+   },
+   {
+    "project_id": 1022,
+    "synced_at": "2026-06-25T13:15:00Z",
+    "records": 894,
+    "source": "manual"
+   },
+   {
+    "project_id": 1182,
+    "synced_at": "2026-01-21T17:45:00Z",
+    "records": 225,
+    "source": "manual"
+   },
+   {
+    "project_id": 1030,
+    "synced_at": "2026-02-18T10:00:00Z",
+    "records": 78,
+    "source": "api"
+   },
+   {
+    "project_id": 1120,
+    "synced_at": "2026-03-21T07:45:00Z",
+    "records": 44,
+    "source": "batch"
+   },
+   {
+    "project_id": 1071,
+    "synced_at": "2026-06-25T00:45:00Z",
+    "records": 824,
+    "source": "api"
+   },
+   {
+    "project_id": 1107,
+    "synced_at": "2026-06-10T16:30:00Z",
+    "records": 90,
+    "source": "api"
+   },
+   {
+    "project_id": 1066,
+    "synced_at": "2026-05-28T11:15:00Z",
+    "records": 125,
+    "source": "batch"
+   },
+   {
+    "project_id": 1065,
+    "synced_at": "2026-04-04T01:30:00Z",
+    "records": 142,
+    "source": "manual"
+   },
+   {
+    "project_id": 1087,
+    "synced_at": "2026-01-23T20:00:00Z",
+    "records": 878,
+    "source": "batch"
+   },
+   {
+    "project_id": 1010,
+    "synced_at": "2026-07-23T18:00:00Z",
+    "records": 446,
+    "source": "api"
+   },
+   {
+    "project_id": 1046,
+    "synced_at": "2026-05-23T23:30:00Z",
+    "records": 888,
+    "source": "manual"
+   },
+   {
+    "project_id": 1103,
+    "synced_at": "2026-03-24T08:30:00Z",
+    "records": 192,
+    "source": "batch"
+   },
+   {
+    "project_id": 1015,
+    "synced_at": "2026-04-25T22:45:00Z",
+    "records": 221,
+    "source": "api"
+   },
+   {
+    "project_id": 1042,
+    "synced_at": "2026-06-10T03:30:00Z",
+    "records": 169,
+    "source": "batch"
+   },
+   {
+    "project_id": 1068,
+    "synced_at": "2026-04-09T20:45:00Z",
+    "records": 195,
+    "source": "api"
+   },
+   {
+    "project_id": 1134,
+    "synced_at": "2026-06-03T00:15:00Z",
+    "records": 601,
+    "source": "api"
+   },
+   {
+    "project_id": 1145,
+    "synced_at": "2026-03-02T22:30:00Z",
+    "records": 210,
+    "source": "api"
+   },
+   {
+    "project_id": 1036,
+    "synced_at": "2026-01-26T23:00:00Z",
+    "records": 443,
+    "source": "manual"
+   },
+   {
+    "project_id": 1089,
+    "synced_at": "not-a-date",
+    "records": 55,
+    "source": "api"
+   },
+   {
+    "project_id": 1195,
+    "synced_at": "2026-07-01T16:45:00Z",
+    "records": 342,
+    "source": "api"
+   },
+   {
+    "project_id": 1127,
+    "synced_at": "2026-06-09T08:15:00Z",
+    "records": 247,
+    "source": "api"
+   },
+   {
+    "project_id": 1117,
+    "synced_at": "2026-05-04T08:30:00Z",
+    "records": 304,
+    "source": "manual"
+   },
+   {
+    "project_id": 1125,
+    "synced_at": "2026-06-11T15:15:00Z",
+    "records": 559,
+    "source": "batch"
+   },
+   {
+    "project_id": 1004,
+    "synced_at": "2026-03-14T08:00:00Z",
+    "records": 620,
+    "source": "manual"
+   },
+   {
+    "project_id": 1151,
+    "synced_at": "2026-02-27T11:00:00Z",
+    "records": 238,
+    "source": "batch"
+   }
+  ]
+ }
+}
